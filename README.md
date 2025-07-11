@@ -22,7 +22,7 @@ AutoGrader is an AI-powered web application that automates the grading of subjec
 |--------------|----------------------------------|
 | Frontend      | Streamlit / React (optional UI) |
 | Backend       | Python, FastAPI (optional)      |
-| ML/NLP        | LLMs (GPT, OpenAI), spaCy       |
+| ML/NLP        | LLMs      |
 | Data Storage  | CSV, Pandas                     |
 | Hosting       | HuggingFace Spaces / Streamlit Cloud |
 
